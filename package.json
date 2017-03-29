@@ -3,9 +3,11 @@
   "version": "0.1.0",
   "private": true,
   "devDependencies": {
+    "gh-pages": "^0.12.0",
     "jquery": "^3.2.1",
     "react-scripts": "0.9.5"
   },
+  "homepage": "https://purpledrumsticks.github.io/randomGif",
   "dependencies": {
     "react": "^15.4.2",
     "react-dom": "^15.4.2"
